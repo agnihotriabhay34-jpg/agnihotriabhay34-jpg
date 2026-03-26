@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agnihotriabhay34-jpg&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnihotriabhay34-jpg&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnihotriabhay34-jpg&theme=tokyo-night"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/agnihotriabhay34-jpg/agnihotriabhay34-jpg/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -81,4 +81,3 @@
 ## ⚡ Fun Fact
 
 I enjoy solving mathematical problems and turning data into insights 📊
-
