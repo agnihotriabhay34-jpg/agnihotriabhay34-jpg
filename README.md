@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Agnihotri</h1>
-<h3 align="center">🚀 Data Science Enthusiast | MSc Mathematics Student</h3>
+<h3 align="center">🚀 Turning data into insights | Aspiring Data Scientist</h3>
 
 <p align="right">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
@@ -10,23 +10,65 @@
 ## 📚 About Me
 
 * 🎓 MSc Mathematics & Data Science student at HBTU Kanpur
-* 🌱 Currently learning **Data Science & Machine Learning**
-* 📊 Passionate about **Data Analysis & Problem Solving**
-* 🎯 Goal: Become a **Data Scientist**
+* 🌱 Currently exploring **Machine Learning, Deep Learning & Generative AI**
+* 📊 Passionate about **Data Science, NLP & Real-world problem solving**
+* 🎯 Goal: Become a **Data Scientist / ML Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,html,sql" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+### 📦 Libraries & Frameworks
+
+<p>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikit-learn"/>
 </p>
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-yellow?style=for-the-badge&logo=googlecolab"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+* Data Preprocessing
+* Regression & Classification
+* Support Vector Machines (SVM)
+* Ensemble Methods
+* Neural Networks & Deep Learning
+* Natural Language Processing (NLP)
+* Transfer Learning
+* Large Language Models (LLMs)
+* Generative AI & Agentic AI Systems
+
+---
+
+## 🧠 Soft Skills
+
+* Communication
+* Leadership
+* Problem-Solving
+* Teamwork
+* Event Management
 
 ---
 
@@ -57,27 +99,31 @@
 
 ## 🤝 Looking to Collaborate On
 
-* Data Science Projects
-* Beginner Machine Learning Projects
+* Data Science & Machine Learning Projects
+* NLP & AI-based Applications
 
 ---
 
 ## 🧠 Looking for Help With
 
-* Machine Learning
-* Real-world Data Projects
+* Advanced ML & Deep Learning
+* Building scalable AI systems
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abhay-agnihotri-32801b2a8">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:agnihotriabhay34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy solving mathematical problems and turning data into insights 📊
+I enjoy solving mathematical problems and building intelligent systems from data 🚀
