@@ -97,20 +97,6 @@
 
 ---
 
-## 🤝 Looking to Collaborate On
-
-* Data Science & Machine Learning Projects
-* NLP & AI-based Applications
-
----
-
-## 🧠 Looking for Help With
-
-* Advanced ML & Deep Learning
-* Building scalable AI systems
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
