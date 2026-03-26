@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhay Agnihotri</h1>
-<h3 align="center">🚀 Turning data into insights | Aspiring Data Scientist</h3>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<p align="center">
+  Building skills in Data Science, ML & AI
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+</p>
 ---
 
 ## 📚 About Me
