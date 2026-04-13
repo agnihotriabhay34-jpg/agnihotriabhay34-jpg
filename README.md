@@ -71,7 +71,6 @@
 * Leadership
 * Problem-Solving
 * Teamwork
-* Event Management
 
 ---
 
