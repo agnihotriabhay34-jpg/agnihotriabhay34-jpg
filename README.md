@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnihotriabhay34-jpg&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnihotriabhay34-jpg&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-eight-omega-69.vercel.app/api?username=agnihotriabhay34-jpg&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-eight-omega-69.vercel.app/api/top-langs/?username=agnihotriabhay34-jpg&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
