@@ -86,7 +86,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnihotriabhay34-jpg&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph-vert-alpha.vercel.app/graph?username=agnihotriabhay34-jpg&theme=tokyo-night"/>
 </p>
 
 ---
